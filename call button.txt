@@ -1,0 +1,19 @@
+<link href="https://raw.githack.com/linhfaceseo/cssjs/master/phongring.css" rel="stylesheet" type="text/css">
+
+
+<div class="fix_tel">
+	    <div class="ring-alo-phone ring-alo-green ring-alo-show" id="ring-alo-phoneIcon" style="right: 150px; bottom: -12px;">
+	        <div class="ring-alo-ph-circle"></div>
+	        <div class="ring-alo-ph-circle-fill"></div>
+	        <div class="ring-alo-ph-img-circle">
+
+	          <a href="tel:0785555790" class="clickcall">
+	            <img class="lazy callbody" src="https://tratinhtam.com/wp-content/uploads/2019/10/nut-goi.png" alt="<php _e('Click to Call','call-now'); ?>" data-l="" scale="0">
+	            <noscript>&amp;amp;lt;img src="//dichvudocung.com/wp-content/plugins/easy-call-now/public/images/phone-ring.png" alt=""&amp;amp;gt;</noscript>
+	            </a>
+	        </div>
+	      </div>
+	      <div class="tel">
+	          <p class="fone">078 5555 790</p>
+	    </div>
+</div>
